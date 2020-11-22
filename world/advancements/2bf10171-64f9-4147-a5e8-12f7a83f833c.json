@@ -1,0 +1,13 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert_hills": "2020-11-22 14:52:18 +0000",
+      "minecraft:desert": "2020-11-22 14:52:21 +0000",
+      "minecraft:beach": "2020-11-22 14:52:15 +0000",
+      "minecraft:river": "2020-11-22 14:51:34 +0000",
+      "minecraft:savanna": "2020-11-22 14:52:40 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}
